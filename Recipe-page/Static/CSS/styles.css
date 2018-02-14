@@ -1,0 +1,38 @@
+
+center{
+  width: 90%;
+  left: 5%;
+  right: 5%;
+  float: center;
+  position: relative;
+  overflow:auto;
+  font-family: 'Josefin Slab', serif;
+}
+/*top part of the screen*/
+
+section{
+  width: 45%;
+  left: 5%;
+  right: 5%;
+  float: left;
+  position: relative;
+  overflow:auto;
+  font-family: 'Josefin Slab', serif;
+}
+/*Left part of the screen*/
+
+aside{
+  width: 40%;
+  left: 5%;
+  float: right;
+  margin-right: 10%;
+  position: relative;
+  overflow:auto;
+  font-family: 'Josefin Slab', serif;
+}
+/*right side of the screen*/
+
+img {
+  border-radius: 50px;
+
+}
